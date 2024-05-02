@@ -1,0 +1,28 @@
+.contact{
+    margin: 80px auto;
+    max-width: 90%;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+}
+.contact-col{
+    flex-basis: 48%;
+    color: #b8abab;
+}
+.contact-col h3{
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    color: #BB86FC;
+    margin-bottom: 10px;
+}
+.contact-col p{
+    font-size: 20px;
+    color: #ffffff;
+    list-style: 0.3;
+}
+.contact-col ul li{
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}

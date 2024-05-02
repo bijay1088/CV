@@ -1,0 +1,44 @@
+.home{
+    width: 100%;
+    min-height: 100vh;
+    /* background: linear-gradient(rgba(196, 77, 56, 0.5),rgba(142, 131, 207,0.5)), url('../../assets/home.jpg'); */
+    background: linear-gradient(rgb(5, 5, 5, 0.9),rgba(53, 51, 51, 0.411));
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-text{
+    text-align: center;
+    max-width: 800px;
+
+
+}
+.home-text h1{
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.home-text p{
+    font-size: 20px;
+    max-width: 700px;
+    margin: 10px auto 20px;
+    line-height: 1.4;
+}
+
+
+/*Responsive*/
+@media (max-width: 768px){
+    .home-text h1{
+        font-size: 40px;
+        max-width: 400px;
+        margin: auto;
+    }
+    .home-text p{
+        font-size: 16px;
+        margin: 15px auto 30px;
+    }
+}

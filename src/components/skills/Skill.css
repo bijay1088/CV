@@ -1,0 +1,39 @@
+.skills{
+    margin: 80px auto;
+    max-width: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+
+}
+.skills-list-col{
+    flex-basis: 48%;
+    color: #f5f5f5;
+}
+.skills-list-col h3{
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    color: #f5f5f5;
+    margin-bottom: 10px;
+}
+.cskills-list-col p{
+    font-size: 20px;
+    color: #f5f5f5;
+    list-style: 0.3;
+}
+.skills-list-col ul li{
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+@media screen and (max-width: 768px){
+    .skills{
+        flex-direction: column;
+    }
+    .skills-list-col{
+        flex-basis: 100%;
+    }
+    
+}
