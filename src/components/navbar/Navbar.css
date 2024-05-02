@@ -45,6 +45,10 @@ nav ul li{
     .logo{
         width: 100px;
     }
+
+    .dark-nav{
+        background: none;
+    }
 }
 
 @media (max-width: 768px){

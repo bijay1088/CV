@@ -13,8 +13,8 @@ const Contact = () => {
 
         <p>For any inquiries, feel free to contact us at given address.</p>
         <ul>
-          <li><FontAwesomeIcon icon={faPhone} className='me-2'/>+44 07778794590  </li>
-          <li><FontAwesomeIcon icon={faEnvelope} className='me-2'/>bijaybaniya1088@gmail.com</li>
+          <li><FontAwesomeIcon icon={faPhone} className='me-2'/><a href="tel:+44 07778794590">+44 07778794590</a></li>
+          <li><FontAwesomeIcon icon={faEnvelope} className='me-2'/><a href="mailto:bijaybaniya1088@gmail.com">bijaybaniya1088@gmail.com</a></li>
           <li><FontAwesomeIcon icon={faMapMarkerAlt} className='me-2'/>Feltham, London<br/>UK</li>
         </ul>
       </div>
