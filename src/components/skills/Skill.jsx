@@ -2,28 +2,13 @@ import React from 'react'
 import './Skill.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faStar, faStarHalf } from '@fortawesome/free-solid-svg-icons'
+import skills from '../../assets/skills.json'
 
 const Skill = () => {
 
-  const programmingSkills = [
-    { name: 'C#', rating: 4 },
-    { name: 'JavaScript', rating: 4 },
-    { name: 'Python', rating: 4 },
-    { name: 'Java', rating: 3.5 },
-    { name: 'SQL', rating: 4.5 },
-    { name: 'HTML', rating: 4 },
-    { name: 'CSS', rating: 3 },
-    { name: 'XML', rating: 4 }
-  ]
+  const programmingSkills = skills.programmingSkills;
 
-  const otherSkills = [
-    { name: 'Multilanguage (English, Nepali, Hindi)', rating: 4.5 },
-    { name: 'Time Management', rating: 4.5 },
-    { name: 'Hard Working', rating: 5 },
-    { name: 'Team Player', rating: 5 },
-    { name: 'Technical Knowledge', rating: 4.5 },
-    { name: 'Hardware', rating: 4.5 }
-  ]
+  const otherSkills = skills.softSkills;
 
   return (
     <div>
@@ -45,7 +30,7 @@ const Skill = () => {
         </div>
 
         <div className="skills-list-col">
-          <h3> Other Skills </h3>
+          <h3> Soft Skills </h3>
           <ul>
           {otherSkills.map((skill, idx) => (
               <li key={idx}>
