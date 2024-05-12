@@ -8,6 +8,7 @@ import Home from './components/home/Home'
 import NavBar from './components/navbar/Navbar'
 import Skill from './components/skills/Skill'
 import Contact from './components/contact/Contact'
+import Blog from './components/blog/Blog'
 import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
@@ -16,11 +17,13 @@ function App() {
       <NavBar />
       <Home />
       <div className='cusContainer'>
-        <Title subTitle='my projects' title='What I have made'/>
+        <Title title='my projects' subTitle='What I have made'/>
         <Project />
-        <Title subTitle='my skills' title='What I can do'/>
+        <Title title='my skills' subTitle='What I can do'/>
         <Skill />
-        <Title subTitle='contact me' title='Get in touch'/>
+        <Title title='my blogs' subTitle='Personal Experiences'/>
+        <Blog />
+        <Title title='contact me' subTitle='Get in touch'/>
         <Contact />
         <Footer />
       </div>

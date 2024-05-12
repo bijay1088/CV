@@ -1,0 +1,15 @@
+.blog-modal .modal-content{
+    background-color: #212529;
+}
+
+.blog-body{
+    font-size: 18px;
+    
+}
+
+.blog-image{
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    
+}

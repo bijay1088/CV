@@ -28,7 +28,8 @@ const Navbar = () => {
         <ul className={menu?'':'hide-burger'}>
             <li><Link to='home' smooth={true} offset={0} duration={100}>Home</Link></li>
             <li><Link to='project' smooth={true} offset={-250} duration={100}>Projects</Link></li>
-            <li><Link to='skills' smooth={false} offset={-200} duration={100}>Skills</Link></li>
+            <li><Link to='skills' smooth={false} offset={-250} duration={100}>Skills</Link></li>
+            <li><Link to='blog' smooth={false} offset={-220} duration={100}>Blog</Link></li>
             <li><Link to='contact' smooth={false} offset={-260} duration={100}><button className='cusBtn'>Contact</button></Link> </li>
         </ul>
         <FontAwesomeIcon icon={faBars} className='burger' onClick={toggleMenu} />

@@ -1,0 +1,27 @@
+[
+    {
+        "title": "My Back End Developer Journey",
+        "image": "https://kinsta.com/wp-content/uploads/2021/11/back-end-developer-1024x512.png",
+        "imageSource": "https://kinsta.com/blog/backend-developer/",
+        "date": "2024-05-12",
+        "tags": ["back end", "developer", "programming"],
+        "category": "programming",
+        "dateUpdated": "2024-05-12",
+        "info": "Back-end developers are very important for the functionality of a website but they are not as visible as front-end developers. Here is my journey to becoming a back-end developer...",
+        "body": "<span style='font-weight: 100;'><em>Everyone says look, how beautiful this website looks but nobody says look, how fast these data are being retrived from database and being displayed here.</em></span><br><br>Back-end as name suggest are like brain of the programs. You cannot see them from outside but they are important to do any function in programs.<br><br>They are responsible for everything that is done in background while user clicks something. Unlike front end developer whose work is shown to every users since they are responsible to display data to users and make sure it looks visually pleasing, backend have different responsible. <br>Their work is done in background and it is mostly being processed in servers where normal users cannot interact directly. The bridge between these are mostly connected by something called 'API' which backend developers are responsible for. <br>The front end developers can utilize these API to access all the functions that back end developer created to make program runs and interact with servers. <br>Back end devs are also tasked with managing these data and retrieving/storing data in database. They then make sure any unauthorized users don't get access to these data with authentication and give limited access to allowed users with authorization.<br>They are also responsible for testing of the program to make sure there are not any bugs and fix it so that users don't get any issues on their part and deploy it. <br><br>The reason why I want to become a back end programmer instead of front end is because desiging is not for me. Since I was a kid, I have always liked using electronic device and wondered how they are functioning. I used to see my dad fix the TV, watch and such and seeing those inside parts which normal users don't see joined together and function was facinating. That was probably one of my motivation to be in technology industry.<br> I like to do tasks where I can think of a problem, find a solution, utilize it and see the result. This gives me satisfaction because I can see myself fixing the problem. <br>So, even if we may not get as many credits by users, I still like being one and will always work towards my goal. <br>Thank you for reading!"
+
+    },
+    {
+        "title": "My Sleep Paralysis",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Henry_Fuseli_%281741%E2%80%931825%29%2C_The_Nightmare%2C_1781.jpg",
+        "imageSource": "https://en.wikipedia.org/wiki/The_Nightmare",
+        "date": "2024-05-12",
+        "tags": ["sleep paralysis", "dreams", "nightmares"],
+        "category": "dreams",
+        "dateUpdated": "2024-05-12",
+        "info": "I've had sleep paralysis for as long as I can remember. It's a terrifying experience that I wouldn't wish on anyone...",
+        "body": "Sleep Paralysis is a moment between dream and reality. <br>It is a specific time frame where you wake up but your body is still in dream so your brain gets confused. Since you are still in dream but you are also awake, your dream and reality starts to overlap. This is when your dream starts to become reality. <br>You start to see things that are not there. You start to feel things that are not there. You start to hear things that are not there.<br>Then you try to move your body but since you are still asleep, your body in real life can't move (hence, sleep paralysis).<br><br>This is not lethal which will cause permanent harm to anyone but it is still a scary feeling. This can affect your sleep pattern or even make you afraid of sleeping.<br>I have not found any permanent solutions for it yet but I might know what causes it for me. I will list it here in case someone else has it. This might or might not help but you can give it a try. <br><br>Normally, when this happens, I noticed that I am going to my sleep late or too much tired. I have also seen this happen when I am stressed out. <br>So, If you have it, I recommend avoiding stressing yourself too much. If something is bothering you, try to solve it before going to sleep. <br>Also, try to sleep early and have a good sleep. This might help you to avoid sleep paralysis. <br>But if you still have it, I recommend you to see a doctor. They might have a better solution for you. <br>Good luck!"
+    }
+
+    
+]
