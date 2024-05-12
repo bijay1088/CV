@@ -45,7 +45,7 @@ const Blog = () => {
     
                                 </blockquote>
                             </Card.Body>
-                            <Card.Footer className="text-center text-white fw-lighter">Last Edited: {blog.dateUpdated}</Card.Footer>
+                            <Card.Footer className="text-center text-white fw-lighter blog-date">Last Edited: {blog.dateUpdated}</Card.Footer>
                         </Card> 
                     )
                 })

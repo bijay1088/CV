@@ -3,9 +3,17 @@
     cursor: pointer;
 }
 
+.blog-date{
+    font-size: 15px;
+}
+
 @media (max-width: 768px) {
     .blog-info, .tag{
         font-size: 16px;
+    }
+
+    .blog-date{
+        font-size: 13px;
     }
     
     
