@@ -5,6 +5,7 @@ import Gandaki from '../../assets/gandaki.png';
 import Discord from '../../assets/discord.png';
 import Car from '../../assets/carRental.png';
 import Venue from '../../assets/merovenue.png';
+import Garbage from '../../assets/garbage_Classification.gif';
 import {BsArrowLeftCircleFill, BsArrowRightCircleFill} from 'react-icons/bs';
 import { FaLanguage } from 'react-icons/fa';
 
@@ -45,6 +46,13 @@ const Project = () => {
       description: 'A website for a venue booking company. This was made for a final year project while I was working so it is a little rough. It has fully functional backend and frontend with a database to store the data of services, login system and payment method.',
       link: 'https://github.com/bijay1088/MeroVenue',
       language: 'React and NodeJs'
+    },
+    {
+      image: Garbage,
+      name: 'Garbage Classification',
+      description: 'A machine learning project made on Matlab that uses webcam to classify garbage. It was created as university project but I decided to use the trained model to be used with webcam instead of just using it on training pictures and going to waste.',
+      link: 'https://github.com/bijay1088/Garbage_Classification_With_Webcam_Integration',	
+      language: 'Matlab'
     }
   ]
 
