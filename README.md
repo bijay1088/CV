@@ -1,4 +1,4 @@
-This is my person CV.
+This is my personal portfolio website.
 
 
 
@@ -9,6 +9,7 @@ This is my person CV.
 
 
 
+This was created using React and Vite
 
 About React and Vite
 # React + Vite
