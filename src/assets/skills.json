@@ -1,23 +1,24 @@
 {
     "programmingSkills": [
-        { "name": "C#", "rating": 3.5 },
-        { "name": "JavaScript", "rating": 3 },
-        { "name": "Python", "rating": 3 },
-        { "name": "Java", "rating": 3 },
-        { "name": "SQL", "rating": 4.5 },
-        { "name": "HTML", "rating": 4 },
-        { "name": "CSS", "rating": 2.5 },
-        { "name": "XML", "rating": 3.5 }
+        { "name": "C#", "rating": 3.5, "level": "intermediate" },
+        { "name": "JavaScript", "rating": 3,  "level": "intermediate" },
+        { "name": "Python", "rating": 3,  "level": "intermediate"  },
+        { "name": "Java", "rating": 3,  "level": "intermediate"  },
+        { "name": "SQL", "rating": 4,  "level": "intermediate"  },
+        { "name": "HTML", "rating": 4,  "level": "intermediate"  },
+        { "name": "CSS", "rating": 2.5,  "level": "intermediate"  },
+        { "name": "XML", "rating": 3.5,  "level": "intermediate"  },
+        { "name": "Matlab", "rating": 2.5,  "level": "intermediate"  }
     ],
     "softSkills": [
-        { "name": "Multilanguage (English, Nepali, Hindi)", "rating": 4.5 },
-        { "name": "Time Management", "rating": 4.5 },
-        { "name": "Hard Working", "rating": 5 },
-        { "name": "Team Player", "rating": 5 },
-        { "name": "Adaptability", "rating": 4.5 },
-        { "name": "Problem Solving", "rating": 4.5 },
-        { "name": "Technical Knowledge", "rating": 4.5 },
-        { "name": "Hardware", "rating": 4.5 }
+        { "name": "Multilanguage (English, Nepali, Hindi)", "rating": 4.5, "level": "intermediate" },
+        { "name": "Time Management", "rating": 4.5, "level": "intermediate" },
+        { "name": "Hard Working", "rating": 5, "level": "advanced" },
+        { "name": "Team Player", "rating": 5, "level": "advanced" },
+        { "name": "Adaptability", "rating": 4.5, "level": "intermediate" },
+        { "name": "Problem Solving", "rating": 4.5, "level": "intermediate" },
+        { "name": "Technical Knowledge", "rating": 4.5, "level": "intermediate" },
+        { "name": "Hardware", "rating": 4.5, "level": "intermediate" }
     ]
 
 }

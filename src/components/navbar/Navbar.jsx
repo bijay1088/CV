@@ -26,7 +26,6 @@ const Navbar = () => {
 
   return (
     <nav className={`cusContainer ${sticky?'dark-nav':''}`}>
-        {/* <img src={logo} alt="Gandaki Logo"  className='logo'/> */}
         <ul className={menu?'':'hide-burger'}>
             <li><Link to='home' smooth={true} offset={0} duration={100}>Home</Link></li>
             <li><Link to='project' smooth={true} offset={offset} duration={100}>Projects</Link></li>
